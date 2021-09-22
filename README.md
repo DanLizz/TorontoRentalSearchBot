@@ -1,5 +1,6 @@
-# TorontoRentalSearchBot
-Program to search for Affordable Houes in Toronto and save it using Google Forms
+# Toronto Rental Search Bot
+Program to search for Affordable Houes in Toronto and save it using Google Forms.
+This project is based on Python using BeautifulSoup and Selenium for Automation.
 
 This project is based on Zillow. You can customize your search at https://www.zillow.com/ and paste it at the URL. Change the Address to find the affordable housing, change the rent and number of preferred rooms in the Zillow search bar.
 
